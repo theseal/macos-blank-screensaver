@@ -1,5 +1,5 @@
 # macos-blank-screensaver
-Blank screensaver for MacOS
+Blank (black) screensaver for MacOS
 
 Inspired by https://superuser.com/a/328670 but even smaller in size.
 
