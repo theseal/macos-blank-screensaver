@@ -11,7 +11,7 @@ Inspired by https://superuser.com/a/328670 but even smaller in size.
 
     ```
     $ brew tap theseal/blank-screensaver
-    $ brew cask install blank-screensaver
+    $ brew install blank-screensaver
     ```
 * Follow caveats
 
