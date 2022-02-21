@@ -17,19 +17,21 @@ Inspired by https://superuser.com/a/328670 but even smaller in size.
 
 ### Without Homebrew
 
-* For **all** versions of macOS **besides** Mojave:
+* For Big Sur and newer (**and Mojave**):
+* * Install the `Blank` screen saver
+```
+open Blank.saver
+```
 
-  * Copy "Blank.qtz" to "~/Library/Screen Savers":
+
+
+* For **all** versions of macOS older then Big Sur (**besides** Mojave):
+* * Copy "Blank.qtz" to "~/Library/Screen Savers":
 ```
 cp Blank.qtz ~/Library/Screen\ Savers/
 ```
+
 * Enable the screensaver(named "Blank") in "Desktop & Screen saver" under "Screen Saver":
 ```
 open /System/Library/PreferencePanes/DesktopScreenEffectsPref.prefPane
-```
-
-* Mojave (10.14):
-  * Install the `Blank` screen saver
-```
-open Blank.saver
 ```
